@@ -8,7 +8,7 @@
 #include <string.h>
 #include "pico/stdlib.h"
 #include "pico/binary_info.h"
-#include "inc/ssd1306.h"
+#include "ssd1306.h"
 #include "hardware/i2c.h"
 
 #define MAX_LINES 8
