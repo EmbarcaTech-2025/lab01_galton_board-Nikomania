@@ -1,3 +1,15 @@
+# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+
+Autor: **Thiago Carrijo Rufino Rabelo**
+
+Curso: Residência Tecnológica em Sistemas Embarcados
+
+Instituição: EmbarcaTech - HBr
+
+Brasília, 10 de maio de 2025
+
+<!-- INSIRA O CONTEÚDO DO SEU README AQUI! -->
+
 # Simulação de Galton Board com Display OLED
 
 Este projeto implementa uma simulação de uma Galton Board (ou Quincunce) usando um microcontrolador RP2040 (BitDogLab) e um display OLED SSD1306. Os pinos são desenhados como pixels brancos fixos no display, e as bolas também são pixels brancos que descem, colidem nos pinos e desviam para a esquerda ou direita com probabilidade de 50% a cada impacto. Após todas as bolas atingirem a base, é gerado um histograma que mostra quantas bolas caíram em cada "gap", evidenciando a distribuição normal esperada.
@@ -60,4 +72,4 @@ Este projeto implementa uma simulação de uma Galton Board (ou Quincunce) usand
 
 ## 📜 Licença
 
-MIT License
+MIT License - MIT GPL-3.0.
